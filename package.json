@@ -1,0 +1,26 @@
+{
+  "name": "egg-framework",
+  "version": "1.0.0",
+  "description": "Egg is a node.js framework",
+  "main": "egg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artisangang/egg-framework.git"
+  },
+  "keywords": [
+    "node",
+    "egg",
+    "framework",
+    "mvc",
+    "js"
+  ],
+  "author": "Harcharan Singh <artisangang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artisangang/egg-framework/issues"
+  },
+  "homepage": "https://github.com/artisangang/egg"
+}
